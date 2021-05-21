@@ -1,5 +1,5 @@
 # Destructuring Assignment
-
+ 
 ## Learning Goals
 
 - Use _destructuring assignment_ to assign data to variables
